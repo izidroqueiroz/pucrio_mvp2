@@ -1,0 +1,34 @@
+{
+  "toilets": [
+    {
+      "pk_toilet": 1,
+      "latitude": -23.00398209405813787,
+      "longitude": -43.31720674057578436,
+      "classification": "4",
+      "description": "Shopping Downtown - Praça de alimentação",
+      "toiletType": "Público",
+      "insertDate": "2023-09-16 15:04:22.956786",
+      "user": "izidro.queiroz@outlook.com"
+    },
+    {
+      "pk_toilet": 2,
+      "latitude": -23.00356237809824122,
+      "longitude": -43.32063245812606312,
+      "classification": "4",
+      "description": "Shopping Città - lado direito",
+      "toiletType": "Público",
+      "insertDate": "2023-09-16 15:04:22.956786",
+      "user": "izidro.queiroz@outlook.com"
+    },
+    {
+      "pk_toilet": 3,
+      "latitude": -23.01154367066520833,
+      "longitude": -43.32765984574508166,
+      "classification": "3",
+      "description": "Posto 4 - Barra",
+      "toiletType": "Pago",
+      "insertDate": "2023-09-16 15:04:22.956786",
+      "user": "fulano@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "openingHours": [
+    {
+      "id": 1,
+      "weekday": 0,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 1
+    },
+    {
+      "id": 2,
+      "weekday": 1,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 1
+    },
+    {
+      "id": 3,
+      "weekday": 2,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 1
+    },
+    {
+      "id": 4,
+      "weekday": 3,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 1
+    },
+    {
+      "id": 5,
+      "weekday": 4,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 1
+    },
+    {
+      "id": 6,
+      "weekday": 5,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 1
+    },
+    {
+      "id": 7,
+      "weekday": 6,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 1
+    },
+    {
+      "id": 8,
+      "weekday": 0,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 2
+    },
+    {
+      "id": 9,
+      "weekday": 1,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 2
+    },
+    {
+      "id": 10,
+      "weekday": 2,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 2
+    },
+    {
+      "id": 11,
+      "weekday": 3,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 2
+    },
+    {
+      "id": 12,
+      "weekday": 4,
+      "openClosed": "O",
+      "openingTime": "10:00:00.000000",
+      "closingTime": "22:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 2
+    },
+    {
+      "id": 13,
+      "weekday": 5,
+      "openClosed": "C",
+      "openingTime": null,
+      "closingTime": null,
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 2
+    },
+    {
+      "id": 14,
+      "weekday": 6,
+      "openClosed": "C",
+      "openingTime": null,
+      "closingTime": null,
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 2
+    },
+    {
+      "id": 15,
+      "weekday": 0,
+      "openClosed": "O",
+      "openingTime": "08:00:00.000000",
+      "closingTime": "18:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 3
+    },
+    {
+      "id": 16,
+      "weekday": 1,
+      "openClosed": "O",
+      "openingTime": "08:00:00.000000",
+      "closingTime": "18:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 3
+    },
+    {
+      "id": 17,
+      "weekday": 2,
+      "openClosed": "O",
+      "openingTime": "08:00:00.000000",
+      "closingTime": "18:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 3
+    },
+    {
+      "id": 18,
+      "weekday": 3,
+      "openClosed": "O",
+      "openingTime": "08:00:00.000000",
+      "closingTime": "18:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 3
+    },
+    {
+      "id": 19,
+      "weekday": 4,
+      "openClosed": "O",
+      "openingTime": "08:00:00.000000",
+      "closingTime": "18:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 3
+    },
+    {
+      "id": 20,
+      "weekday": 5,
+      "openClosed": "O",
+      "openingTime": "08:00:00.000000",
+      "closingTime": "18:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 3
+    },
+    {
+      "id": 21,
+      "weekday": 6,
+      "openClosed": "O",
+      "openingTime": "08:00:00.000000",
+      "closingTime": "18:00:00.000000",
+      "insertDate": "2023-09-16 15:04:22.965298",
+      "toiletId": 3
+    }
+  ]
+}
